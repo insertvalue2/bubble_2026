@@ -11,6 +11,7 @@ public class Bubble extends JLabel {
     private ImageIcon bubbleIcon;
     private Player player;
 
+
     // getter
     @Override
     public int getX() {
